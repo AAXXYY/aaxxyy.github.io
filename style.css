@@ -1,0 +1,64 @@
+
+
+.navi{
+    height: 30px;
+    text-align: right;
+    background-color: #333333;
+    padding: 0px;
+    
+}
+
+body {
+    background-image: url("assets/topography.png");
+
+    margin: 0px;
+    font-size: 1.5em;
+    font-family: 'Courier New', Courier, monospace;
+    font-family: Merriweather-Regular;
+}
+@font-face{
+    font-family: "Merriweather-Regular";
+    src: url("assets/Merriweather-Regular.ttf");
+}
+li {
+    display: inline;
+    padding-left: 30px;
+  }
+  li a {
+    color: #ff0099;
+    font-size: 14px;
+    text-transform: uppercase;
+
+
+}
+header{
+    margin: 0%;
+    
+    
+}
+h1{
+    font-size: 2em;
+}
+
+main{
+    padding: 10%;
+}
+.logo{
+    float: left;
+    padding-left: 10%;
+}
+.lila{
+    color: #ff0099;
+}
+.kozep{
+    text-align: center;
+}
+.small{
+    font-size: 0.7em;
+    line-height: 1.6em;
+}
+.links{
+    padding-top: 0%;
+    padding-right: 10%;
+    font-size: 0.1em;
+}
